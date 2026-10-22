@@ -6,6 +6,7 @@
 
 #include "gs-common.h"
 #include <gsocket/gsocket.h>
+#include "gs-externs.h"
 
 #include "picohttpparser.h"
 #define JSMN_STATIC
